@@ -1,0 +1,11 @@
+Filename: future_of_programming.txt
+
+ARTICLE
+
+The programming landscape is evolving rapidly with the rise of AI-assisted coding tools. Developers no longer rely solely on manual coding; instead, they use intelligent systems that suggest code, detect errors, and even generate entire functions automatically. These tools, powered by large language models, have dramatically improved productivity for software engineers.
+
+In the next decade, experts predict a shift toward more declarative programming styles. Developers will describe the desired output, and AI systems will automatically create the underlying logic. This transition may reduce the learning curve for beginners and bring more people into the software industry.
+
+Despite these advancements, concerns remain regarding code quality, dependency on AI tools, and potential reduction in human creativity. Experienced developers argue that while AI can automate repetitive tasks, it cannot fully replace human intuition and problem-solving skills.
+
+The future of programming will likely be a hybrid model where AI handles routine tasks, and humans focus on architecture, creativity, and complex logic design.

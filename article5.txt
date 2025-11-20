@@ -1,0 +1,9 @@
+Filename: education_policy_report.txt
+
+ARTICLE
+
+A national policy study on education reveals that less than 60% of students in rural areas have access to quality digital learning resources. The report emphasizes the widening gap between urban and rural education systems, largely due to infrastructure issues and lack of trained teachers.
+
+Researchers recommend increasing government investment in e-learning platforms, providing affordable internet access, and training teachers in digital tools. The report also highlights the importance of community learning centers, which can offer shared resources in remote areas.
+
+If implemented effectively, these measures could significantly improve learning outcomes and reduce dropout rates. The study concludes that prioritizing digital literacy is essential for preparing students for future job markets.
